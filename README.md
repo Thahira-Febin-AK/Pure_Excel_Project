@@ -18,8 +18,8 @@ This repository contains a comprehensive **Bike Sales Analysis** project complet
   - Easy export to professional formats (PDF, PowerPoint).  
 
 - **Techniques Applied:**
-  - Data cleaning and preparation (handling nulls, formatting).  
-  - Advanced Excel functions (VLOOKUP, IF, conditional formatting).  
+  - Data cleaning and preparation (handling nulls,replace values, formatting).  
+  - Advanced Excel functions (IF, conditional formatting).  
   - PivotTables & PivotCharts for multi‑dimensional analysis.  
   - Dashboard design for storytelling and visualization.  
 
